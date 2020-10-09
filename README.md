@@ -1,4 +1,4 @@
-# note-organizer
+# vue-note-organizer
 
 ## Project setup
 ```
